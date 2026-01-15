@@ -155,4 +155,3 @@ The waveform below demonstrates correct operation across asynchronous clock doma
 
 Designed and verified as part of FIFO RTL design and validation practice.
 
-```
